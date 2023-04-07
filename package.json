@@ -1,0 +1,12 @@
+{
+  "name": "4.template-joke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "sass": "node-sass -w style.scss style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
